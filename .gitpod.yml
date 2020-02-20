@@ -1,4 +1,0 @@
-tasks:
-2
-- init: apt install gcc && apt install c++
-3
